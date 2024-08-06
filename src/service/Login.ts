@@ -4,7 +4,7 @@ import axios from 'axios'
 const JWT_EXPIRED_TIME = 1800000
 const LOGIN_SERVICE_URL = `/api/login/user-service`
 const LOGIN_URL = `/login`
-const CLIENT_REFRESH_URL = '/api/login/user-service/api/v1/users/token/refresh'
+const CLIENT_REFRESH_URL = '/testgov2-dev/dis/api/login/user-service/api/v1/users/token/refresh'
 
 export interface ILogin {
   email?: string
