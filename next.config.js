@@ -38,6 +38,6 @@ module.exports = {
       },
     ]
   },
-  basePath:'/SERVICE_PATH'
+  //basePath:'/SERVICE_PATH'
 }
 
